@@ -15,9 +15,9 @@ let input = process.argv[3];
 //Switches for user actions
 switch (command) {
 
-    // case "spotify-this-song":
-    //     spotifyThisSong();
-    //     break;
+    case "spotify-this-song":
+        spotifyThisSong();
+        break;
 
     case "concert-this":
         bandInfo();
@@ -78,6 +78,12 @@ function bandInfo() {
 }
 
 //OMDB Movie Code
+
+function movieInfo() {
+    if (!input) {
+        input = response.data.Title + "mr nobody"
+    }
+}
 
 function movieInfo() {
     Axios.get(`http://www.omdbapi.com/?t=${input}&y=&plot=short&apikey=trilogy`)

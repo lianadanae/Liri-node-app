@@ -46,7 +46,7 @@ Axios, Moment and fs
 
 
 ### Screenshots
-![Spotify-this-song](./images/Screen-Shot-Spotify-Hozier.png)
+![Spotify-this-song](https://github.com/lianadanae/Liri-node-app/tree/master/images/Screen-Shot-Spotify-Hozier.png)
 
 ![Spotify-this-song-empty](Screen-Shot-Spotify-this-song-empty.png)
 ![Concert-this]()
