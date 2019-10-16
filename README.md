@@ -8,10 +8,11 @@ In this assignment, I made LIRI. LIRI is like iPhone's SIRI. However, while SIRI
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.  The LIRI Bot was designed to produce search results based on the following commands:
 
-node liri.js concert-this
-node liri.js spotify-this-song
-node liri.js movie-this
-node liri.js do-what-it-says
+-node liri.js concert-this
+-node liri.js spotify-this-song
+-node liri.js movie-this
+-node liri.js do-what-it-says
+
 Each command produced different search results as listed below:
 
 node liri.js concert-this “artist/band name”
@@ -38,8 +39,14 @@ Rotten Tomatoes Rating of the movie
 node liri.js do-what-it-says
 Print the spotify results for “I want it that way” stored in the random.txt file
 
-##Technologies Used
+### Technologies Used
 Node.js
 API's- Spotify, Bands in Town and OMDB
 Axios, Moment and fs
 
+
+### Screenshots
+![Spotify-this-song](Screen-Shot-Spotify-Hozier.png)
+
+![Spotify-this-song-empty](Screen-Shot-Spotify-this-song-empty.png)
+![Concert-this]()
