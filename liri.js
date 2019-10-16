@@ -15,9 +15,9 @@ let input = process.argv[3];
 //Switches for user actions
 switch (command) {
 
-    case "spotify-this-song":
-        spotifyThisSong();
-        break;
+    // case "spotify-this-song":
+    //     spotifyThisSong();
+    //     break;
 
     case "concert-this":
         bandInfo();
