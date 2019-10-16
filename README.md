@@ -45,8 +45,19 @@ API's- Spotify, Bands in Town and OMDB
 Axios, Moment and fs
 
 
-### Screenshots
-![Spotify-this-song](https://github.com/lianadanae/Liri-node-app/tree/master/images/Screen-Shot-Spotify-Hozier.png)
+###  Screenshots
 
-![Spotify-this-song-empty](Screen-Shot-Spotify-this-song-empty.png)
-![Concert-this](images/Screenshot-movie-this.png)
+#### Spotify-this Hozier
+![Spotify-this-song](images/Screen-Shot-Spotify-Hozier.png)
+
+
+#### Spotify-this default
+![Spotify-this-song-empty](images/Screen-Shot-Spotify-this-song-empty.png)
+
+
+#### Concert-this Hozier
+![Concert-this](images/Screenshot-concert-this.png)
+
+
+#### Movie-this Frozen
+![Movie-this](images/Screenshot-movie-this.png)

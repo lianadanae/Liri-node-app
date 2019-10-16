@@ -81,7 +81,7 @@ function bandInfo() {
 
 function movieInfo() {
     if (!input) {
-        input = response.data.Title + "mr nobody"
+        input = response.data.Title + "mr." + "nobody"
     }
 }
 
