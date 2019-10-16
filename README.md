@@ -46,7 +46,7 @@ Axios, Moment and fs
 
 
 ### Screenshots
-![Spotify-this-song](Screen-Shot-Spotify-Hozier.png)
+![Spotify-this-song](./images/Screen-Shot-Spotify-Hozier.png)
 
 ![Spotify-this-song-empty](Screen-Shot-Spotify-this-song-empty.png)
 ![Concert-this]()
