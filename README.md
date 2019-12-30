@@ -61,7 +61,7 @@ node liri.js do-what-it-says
 
 
 #### Concert-this Hozier
-![Concert-this](images/Screenshot-concert-this.png)
+![Concert-this](images/Screen-Shot-concert-this.png)
 
 
 #### Movie-this Frozen
