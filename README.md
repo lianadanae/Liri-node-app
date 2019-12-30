@@ -1,8 +1,7 @@
 # Liri-node-app
 
-https://lianadanae.github.io/Liri-node-app/
 
-### Overview
+## Overview
 
 In this assignment, I made LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
@@ -48,16 +47,20 @@ Axios, Moment and fs
 ###  Screenshots
 
 #### Spotify-this Hozier
-![Spotify-this-song](images/Screen-Shot-Spotify-Hozier.png)
+[Spotify-this-song](images/Screen-Shot-Spotify-Hozier.png)
 
 
 #### Spotify-this default
-![Spotify-this-song-empty](images/Screen-Shot-Spotify-this-song-empty.png)
+[Spotify-this-song-empty](images/Screen-Shot-Spotify-this-song-empty.png)
 
 
 #### Concert-this Hozier
-![Concert-this](images/Screenshot-concert-this.png)
+[Concert-this](images/Screenshot-concert-this.png)
 
 
 #### Movie-this Frozen
-![Movie-this](images/Screenshot-movie-this.png)
+[Movie-this](images/Screenshot-movie-this.png)
+
+
+#### Do-what-it-says
+[Do-what-it-says](images/Do-what-it-says.png)
